@@ -1,0 +1,7 @@
+{
+  "name": "Z04 AI",
+  "description": "Интелигентен гласов и текстов асистент Z04, захранван от Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
